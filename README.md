@@ -1,2 +1,1 @@
-# lp
-Landing Page / Company Profile By Srawung Sinergi
+# Landing Page / Company Profile By Srawung Sinergi
